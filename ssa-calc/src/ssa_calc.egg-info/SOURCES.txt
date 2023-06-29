@@ -1,0 +1,15 @@
+LICENSE.rst
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+setup.cfg
+setup.py
+src/ssa_calc/__init__.py
+src/ssa_calc/satellite.py
+src/ssa_calc.egg-info/PKG-INFO
+src/ssa_calc.egg-info/SOURCES.txt
+src/ssa_calc.egg-info/dependency_links.txt
+src/ssa_calc.egg-info/not-zip-safe
+src/ssa_calc.egg-info/requires.txt
+src/ssa_calc.egg-info/top_level.txt
